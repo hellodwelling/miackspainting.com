@@ -95,7 +95,7 @@
     </url>
 
     <url>
-        <loc>https://miackspainting.com/service-Kitchen-and-Cabinet-Refinishing</loc>
+        <loc>https://miackspainting.com/service-Drywall-and-Plastering</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -109,14 +109,7 @@
     </url>
 
     <url>
-        <loc>https://miackspainting.com/service-Drywall-and-Plastering</loc>
-        <lastmod>2022-05-25</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
-        <loc>https://miackspainting.com/service-Deck-Staining</loc>
+        <loc>https://miackspainting.com/service-Kitchen-and-Cabinet-Refinishing</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -130,7 +123,7 @@
     </url>
 
     <url>
-        <loc>https://miackspainting.com/service-Pre-paint-Washing</loc>
+        <loc>https://miackspainting.com/service-Deck-Staining</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -138,6 +131,13 @@
 
     <url>
         <loc>https://miackspainting.com/service-Other-Painting-Services</loc>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://miackspainting.com/service-Pre-paint-Washing</loc>
         <lastmod>2022-05-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
